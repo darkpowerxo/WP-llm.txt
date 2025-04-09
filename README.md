@@ -10,7 +10,7 @@ site description
 
 ## Menu
  - [Home](https://url.com/): Menu link to Home
-
+ -- [submenu](https://url.com/): two dashes to specify submenu
 
 ## Pages
 - [Products](https://url.com/): description
